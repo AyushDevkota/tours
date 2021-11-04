@@ -1,1 +1,1 @@
-## [Live site at](https://ayush-react-tours.netlify.app/)
+## [Live site](https://ayush-react-tours.netlify.app/)
